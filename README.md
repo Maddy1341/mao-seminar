@@ -1,5 +1,10 @@
 # 真央ゼミWebサイト
 真央ゼミのWebサイト用リポジトリです。
+#Menber
+Professer.Mao
+Elmass
+Wakaba
+
 
 # ディレクトリ構成
 ```
